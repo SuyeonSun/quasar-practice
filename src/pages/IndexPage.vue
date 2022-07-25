@@ -45,6 +45,9 @@
     </form>
     <div>commit test</div>
     <div>commit test</div>
+
+    <div>commit test-pull-merge-diff</div>
+
   </q-page>
 </template>
 
