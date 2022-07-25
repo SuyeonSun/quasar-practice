@@ -43,6 +43,7 @@
       <input type="text" />
       <input type="reset" />
     </form>
+    <div>commit test</div>
   </q-page>
 </template>
 
