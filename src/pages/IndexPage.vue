@@ -2,6 +2,8 @@
   <q-page class="flex flex-center">
     <div>absolute-position.vue</div>
     <div>relative-position.vue</div>
+
+    <div>css position</div>
   </q-page>
 </template>
 
